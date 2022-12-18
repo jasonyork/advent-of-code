@@ -1,0 +1,10 @@
+# Ignore JetBrains config files
+.idea
+*.iml
+
+# Ignore bundler config.
+/.bundle
+/coverage
+
+.DS_Store
+.byebug_history
