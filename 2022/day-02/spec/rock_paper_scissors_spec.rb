@@ -1,5 +1,5 @@
-require_relative 'rock_paper_scissors'
-require_relative '../spec/spec_helper'
+require_relative '../../spec/spec_helper'
+require_relative '../rock_paper_scissors'
 
 RSpec.describe RockPaperScissors do
   let(:rounds) do

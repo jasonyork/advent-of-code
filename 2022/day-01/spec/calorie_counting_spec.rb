@@ -1,5 +1,5 @@
-require_relative 'calorie_counting'
-require_relative '../spec/spec_helper'
+require_relative '../../spec/spec_helper'
+require_relative '../calorie_counting'
 
 RSpec.describe CalorieCounting do
   let(:calorie_packs) do

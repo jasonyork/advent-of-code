@@ -1,5 +1,5 @@
-require_relative 'decrypted_strategy_guide'
-require_relative '../spec/spec_helper'
+require_relative '../../spec/spec_helper'
+require_relative '../decrypted_strategy_guide'
 
 RSpec.describe DecryptedStrategyGuide do
   let(:symbols) do
