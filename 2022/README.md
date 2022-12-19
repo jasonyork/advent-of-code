@@ -15,7 +15,7 @@ Each solution will have a `solution.rb` file with the primary purpose of parsing
 |--------------------------------------------|-------------------------|----------------------------|--------|
 | [01](https://adventofcode.com/2022/day/1)  | Calorie Counting        | [view](day-01/solution.rb) | ⭐ ⭐    |
 | [02](https://adventofcode.com/2022/day/2)  | Rock Paper Scissors     | [view](day-02/solution.rb) | ⭐ ⭐    |
-| [03](https://adventofcode.com/2022/day/3)  | Rucksack Reorganization |||
+| [03](https://adventofcode.com/2022/day/3)  | Rucksack Reorganization | [view](day-03/solution.rb) | ⭐ ⭐    |
 | [04](https://adventofcode.com/2022/day/4)  | Camp Cleanup            |||
 | [05](https://adventofcode.com/2022/day/5)  | Supply Stacks           |||
 | [06](https://adventofcode.com/2022/day/6)  | Tuning Trouble          |||
