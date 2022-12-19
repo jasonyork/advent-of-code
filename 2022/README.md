@@ -18,7 +18,7 @@ Each solution will have a `solution.rb` file with the primary purpose of parsing
 | [03](https://adventofcode.com/2022/day/3)  | Rucksack Reorganization | [view](day-03/solution.rb) | ⭐ ⭐    |
 | [04](https://adventofcode.com/2022/day/4)  | Camp Cleanup            | [view](day-04/solution.rb) | ⭐ ⭐    |
 | [05](https://adventofcode.com/2022/day/5)  | Supply Stacks           | [view](day-05/solution.rb) | ⭐ ⭐    |
-| [06](https://adventofcode.com/2022/day/6)  | Tuning Trouble          |||
+| [06](https://adventofcode.com/2022/day/6)  | Tuning Trouble          | [view](day-06/solution.rb) | ⭐ ⭐    |
 | [07](https://adventofcode.com/2022/day/7)  | No Space Left On Device |||
 | [08](https://adventofcode.com/2022/day/8)  | Treetop Tree House      |||
 | [09](https://adventofcode.com/2022/day/9)  | Rope Bridge             |||
@@ -29,9 +29,9 @@ Each solution will have a `solution.rb` file with the primary purpose of parsing
 | [14](https://adventofcode.com/2022/day/14) | Regolith Reservoir      |||
 | [15](https://adventofcode.com/2022/day/15) | Beacon Exclusion Zone   |||
 | [16](https://adventofcode.com/2022/day/16) | Proboscidea Volcanium   |||
-| [17](https://adventofcode.com/2022/day/17) || [view]                  ||
-| [18](https://adventofcode.com/2022/day/18) | Boiling Boulders        | [view](day-18/solution.rb) ||
-| [19](https://adventofcode.com/2022/day/19) || [view]                  ||
+| [17](https://adventofcode.com/2022/day/17) | Pyroclastic Flow        |||
+| [18](https://adventofcode.com/2022/day/18) | Boiling Boulders        |||
+| [19](https://adventofcode.com/2022/day/19) | Not Enough Minerals     |||
 | [20](https://adventofcode.com/2022/day/20) || [view]                  ||
 | [21](https://adventofcode.com/2022/day/21) || [view]                  ||
 | [22](https://adventofcode.com/2022/day/22) || [view]                  ||
