@@ -19,7 +19,7 @@ Each solution will have a `solution.rb` file with the primary purpose of parsing
 | [04](https://adventofcode.com/2022/day/4)  | Camp Cleanup            | [view](day-04/solution.rb) | ⭐ ⭐    |
 | [05](https://adventofcode.com/2022/day/5)  | Supply Stacks           | [view](day-05/solution.rb) | ⭐ ⭐    |
 | [06](https://adventofcode.com/2022/day/6)  | Tuning Trouble          | [view](day-06/solution.rb) | ⭐ ⭐    |
-| [07](https://adventofcode.com/2022/day/7)  | No Space Left On Device |||
+| [07](https://adventofcode.com/2022/day/7)  | No Space Left On Device | [view](day-07/solution.rb) | ⭐ ⭐    |
 | [08](https://adventofcode.com/2022/day/8)  | Treetop Tree House      |||
 | [09](https://adventofcode.com/2022/day/9)  | Rope Bridge             |||
 | [10](https://adventofcode.com/2022/day/10) | Cathode-Ray Tube        |||
