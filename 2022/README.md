@@ -20,7 +20,7 @@ Each solution will have a `solution.rb` file with the primary purpose of parsing
 | [05](https://adventofcode.com/2022/day/5)  | Supply Stacks           | [view](day-05/solution.rb) | ⭐ ⭐    |
 | [06](https://adventofcode.com/2022/day/6)  | Tuning Trouble          | [view](day-06/solution.rb) | ⭐ ⭐    |
 | [07](https://adventofcode.com/2022/day/7)  | No Space Left On Device | [view](day-07/solution.rb) | ⭐ ⭐    |
-| [08](https://adventofcode.com/2022/day/8)  | Treetop Tree House      |||
+| [08](https://adventofcode.com/2022/day/8)  | Treetop Tree House      | [view](day-08/solution.rb) | ⭐ ⭐    |
 | [09](https://adventofcode.com/2022/day/9)  | Rope Bridge             |||
 | [10](https://adventofcode.com/2022/day/10) | Cathode-Ray Tube        |||
 | [11](https://adventofcode.com/2022/day/11) | Monkey in the Middle    |||
